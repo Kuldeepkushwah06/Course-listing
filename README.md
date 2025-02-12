@@ -52,8 +52,8 @@ A modern course listing platform built with React, featuring real-time course li
 ## Installation and Setup
 
 1. **Clone the Repository**
-git clone <repository-url>
-cd course-platform
+git clone https://github.com/Kuldeepkushwah06/Course-listing.git
+cd Course-listing
 
 2. **Install Dependencies**
 npm install
